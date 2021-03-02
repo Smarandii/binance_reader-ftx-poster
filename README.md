@@ -1,4 +1,4 @@
-### (Tech task)[https://docs.google.com/document/d/1BmsxJFoXSyN4aNhKSXZo6PjbelTOagjDLGiQ6egEQ4k/edit?usp=sharing]
+### [Tech task][https://docs.google.com/document/d/1BmsxJFoXSyN4aNhKSXZo6PjbelTOagjDLGiQ6egEQ4k/edit?usp=sharing]
 
 ### Project should be complete at 03.07.2021 inclusive
 
